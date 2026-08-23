@@ -210,7 +210,7 @@ else{
 // буде присвоювати змінній х значення “default”,  якщо ви намагаєтесь присвоїти в неї falsy-значення
 // (хибноподібні, тобто ті, які приводиться до false, а це 0 null undefined і тд).
 
-let y:string|null = null;
+let y:string = '';
 
 if (!y) {
     y = "default";
