@@ -1,0 +1,17 @@
+.wrap{
+    background-color: blueviolet;
+}
+
+.collapse{
+    width: 200px;
+    height: 200px;
+}
+
+.alpha{
+    color: #933232;
+
+}
+
+.beta{
+    font-size: 25px;
+}
